@@ -3,7 +3,6 @@ import {
   Gitgraph,
   templateExtend,
   TemplateName,
-  Orientation
 } from "@gitgraph/react";
 import Grid from '@mui/material/Grid';
 import "./App.css";
